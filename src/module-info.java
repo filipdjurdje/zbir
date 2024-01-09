@@ -1,0 +1,2 @@
+module zadatak22 {
+}
